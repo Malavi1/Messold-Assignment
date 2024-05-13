@@ -1,3 +1,9 @@
+## Discount functionality working 
+
+[Screencast from 05-13-2024 04:21:19 PM.webm](https://github.com/Malavi1/Messold-Assignment/assets/112646623/bb875d45-cf5a-4a21-8753-632f1de477a5)
+
+
+
 # Shopify App Template - Remix
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using the [Remix](https://remix.run) framework.
